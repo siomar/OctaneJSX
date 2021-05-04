@@ -48,5 +48,5 @@ Outra configuração importante é a definição do JSX de forma global para o T
 Ele vai parar com os erros ao escrever HTML no arquivo **.tsx**
 ## Resultado
 
-<img src="https://github.com/siomar/" width="300" alt="Prévia"/>
+<img src="https://raw.githubusercontent.com/siomar/OctaneJSX/main/ghfiles/print.png" width="100%" alt="Prévia"/>
 
