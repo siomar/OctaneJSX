@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.box {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.box .box-title {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 4rem;
+}
+
+.box .box-subtitle {
+  width: 40%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.octane {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.octane img {
+  float: right;
+}
