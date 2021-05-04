@@ -14,7 +14,7 @@ Entre no projeto e execute o seguinte comando no terminal:
 
 O Typescript suporta incorporação, verificação de tipo e compilação de JSX diretamente para JavaScript. O JSX ficou popular com o React, mas isso não impede de usarmos sem ele em nosso projeto.
 
-Para trabalharmos com o JSX e o Typescript entenda, precisamos habilitar a opção **jsx** e nomear os arquivos **.ts** para **.tsx**, esse modo afeta apenas a fase de emissão.
+Para trabalharmos com o JSX e o Typescript entenda, precisamos habilitar a opção **jsx** no **tsconfig.json** e nomear os arquivos **.ts** para **.tsx**, esse modo afeta apenas a fase de emissão.
 
     "jsx": "react",
     "jsxFactory": "Octane.createElement",
