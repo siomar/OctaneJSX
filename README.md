@@ -1,4 +1,4 @@
-# Octane JSX
+# Octane TSX
   
 > Projeto em Typescript (https://www.typescriptlang.org/) que demonstra o uso do JSX sem o uso do React para renderizar os componentes
 
